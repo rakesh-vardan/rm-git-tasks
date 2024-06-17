@@ -1,1 +1,2 @@
 Modified first line from master branch
+Adding second line from feature branch
