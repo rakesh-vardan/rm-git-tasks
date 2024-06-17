@@ -1,1 +1,2 @@
 Adding first line in the Feature branch
+Adding second line from feature branch
