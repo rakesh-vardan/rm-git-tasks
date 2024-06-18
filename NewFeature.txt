@@ -5,3 +5,5 @@ Adding one line to validate cherry-pick
 added third line in NewFeature from feature branch
 
 Adding fourth line to validate rebase command
+
+Added fifth line 
