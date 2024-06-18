@@ -6,3 +6,5 @@ Adding foruth line from the Github User Interface
 Adding fifth line in file to validate stash command
 
 Adding sixth line in file to validate stash command
+
+Adding seventh line in file
