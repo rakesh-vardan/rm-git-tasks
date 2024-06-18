@@ -8,3 +8,5 @@ Adding fifth line in file to validate stash command
 Adding sixth line in file to validate stash command
 
 Adding seventh line in file
+
+Upto this line, it will be under release v1.0
