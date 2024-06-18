@@ -3,9 +3,6 @@ This is the second line
 Adding third line from the feature branch
 Adding foruth line from the Github User Interface
 
-<<<<<<< Updated upstream
 Adding fifth line in file to validate stash command
-=======
 
 Adding sixth line in file to validate stash command
->>>>>>> Stashed changes
