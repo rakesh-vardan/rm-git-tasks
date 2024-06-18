@@ -10,3 +10,5 @@ Adding sixth line in file to validate stash command
 Adding seventh line in file
 
 Upto this line, it will be under release v1.0
+
+Now iam adding one more line as part of release v2.0
