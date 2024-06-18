@@ -2,3 +2,5 @@ System.out.println("This is First line")
 This is the second line
 Adding third line from the feature branch
 Adding foruth line from the Github User Interface
+
+Adding fifth line in file to validate stash command
