@@ -12,3 +12,5 @@ Adding seventh line in file
 Upto this line, it will be under release v1.0
 
 Now iam adding one more line as part of release v2.0
+
+Adding a line to validate git alias commands
