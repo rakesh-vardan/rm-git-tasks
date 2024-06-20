@@ -1,0 +1,45 @@
+#to ignore a text.txt file located in the root directory
+/text.txt
+
+#to ignore a text.txt file located in a test directory at the root directory
+/test/test.txt
+
+#if you wanted to ignore any text.txt files
+text.txt
+
+#To ignore an entire directory with all its contents
+test/
+
+# matches any files and directories with the name test
+test
+
+#Say that you want to ignore all files and directories that have a name starting with img
+img*
+
+*.md
+
+# ignores all .md files
+.md
+
+# does not ignore the README.md file
+!README.md
+
+# ignore all directories with the name test
+test/
+
+# trying to negate a file inside an ignored directory won't work
+!test/example.md
+
+
+#How to Ignore a Previously Committed File
+# Say you accidentally committed a '.env' file that stores environment variables
+# add .env file to .gitignore
+# echo ".env" >> .gitignore
+
+# git rm --cached .env   -> deletes the file from the repository but does not delete the actual file.
+# git add .gitignore
+# git commit -m "update ignored files"
+
+
+
+
